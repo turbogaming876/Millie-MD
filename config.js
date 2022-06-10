@@ -56,7 +56,7 @@ global.thumburl = process.env.IMAGE || 'https://i.pinimg.com/474x/de/bd/b2/debdb
 global.packname = process.env.PACKNAME ||'A SIMPLE WHATSAPP BOT MDE WITH BAILEYS'
 global.author = process.env.AUTHOR |MILLIE MD|''
 global.name = 'Millie MULTI-DEVICE'
-global.session = process.env.SESSION_ID|| ''
+global.session = process.env.SESSION_ID|| 'RjZNdm04aGg='
 global.wm = process.env.WATERMARK|| 'MILLIE-MD'
 global.owner_name = process.env.OWNER_NAME || 'TOXIC DARCO'
 global.logsmsg = convertToBool(process.env.LOGS)|| false
